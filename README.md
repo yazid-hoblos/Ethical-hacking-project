@@ -18,6 +18,7 @@ Challenges:
 
 1. Using urllib.request.urlopen I was not able to read the html page as a string so I used requests.get instead only for the extract_valid_files.py file. For subdomains and directories extraction urllib.request.urlopen was used instead due to more convenience in catching the errors linked to not being able to access some url compared to using requests.get.
 
-2. Finding websites to test my brute force code was particularly challenging as well.
+2. Finding websites to test my brute force code was particularly challenging as well. Yet, I was able to find several websites developed for such solely for such testing at the end.
 
-
+3. I was also challenged by my lack of knowledge in the web and html domains, so I had to do some research to get a better understanding of the websites and html structures and organization, url valid formats...
+ 
